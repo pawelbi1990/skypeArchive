@@ -1,0 +1,1 @@
+python skypeArchive.py loginSkype hasłoSkype nazwapliku.txt
