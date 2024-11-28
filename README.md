@@ -1,2 +1,2 @@
 How to use:
-Simply download the file, make sure you have python and skpy module installed, then use the "python skypeArchive.py userlogin userpassword textfilename(optional)" in the command line (while beeing in the folder, where .py file exists).
+Simply download the file, make sure you have python and skpy module installed, then insert your skype login and password to the exec.bat file (editable in any text editor), then execute the file
